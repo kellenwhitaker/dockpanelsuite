@@ -1,6 +1,6 @@
 using System.Drawing;
 
-namespace WeifenLuo.WinFormsUI.Docking
+namespace KW.WinFormsUI.Docking
 {
     public sealed class NestedDockingStatus
     {

@@ -8,7 +8,7 @@
     <ProjectGuid>{B51EC09A-F8BE-4B5A-BD07-0F4489075A00}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WeifenLuo.WinFormsUI</RootNamespace>
+    <RootNamespace>KW.WinFormsUI</RootNamespace>
     <AssemblyName>KW.WinFormsUI.Docking.ThemeVS2005</AssemblyName>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>dockpanelsuite.snk</AssemblyOriginatorKeyFile>

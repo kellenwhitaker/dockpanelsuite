@@ -5,7 +5,7 @@ using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
 
-namespace WeifenLuo.WinFormsUI.Docking
+namespace KW.WinFormsUI.Docking
 {
     [ToolboxItem(false)]
     internal class VS2012SplitterControl : DockPane.SplitterControlBase

@@ -85,15 +85,15 @@ namespace DockSample
             // 
             this.ClientSize = new System.Drawing.Size(337, 376);
             this.Controls.Add(this.listView1);
-            this.DockAreas = ((WeifenLuo.WinFormsUI.Docking.DockAreas)(((((WeifenLuo.WinFormsUI.Docking.DockAreas.Float | WeifenLuo.WinFormsUI.Docking.DockAreas.DockLeft)
-                        | WeifenLuo.WinFormsUI.Docking.DockAreas.DockRight)
-                        | WeifenLuo.WinFormsUI.Docking.DockAreas.DockTop)
-                        | WeifenLuo.WinFormsUI.Docking.DockAreas.DockBottom)));
+            this.DockAreas = ((KW.WinFormsUI.Docking.DockAreas)(((((KW.WinFormsUI.Docking.DockAreas.Float | KW.WinFormsUI.Docking.DockAreas.DockLeft)
+                        | KW.WinFormsUI.Docking.DockAreas.DockRight)
+                        | KW.WinFormsUI.Docking.DockAreas.DockTop)
+                        | KW.WinFormsUI.Docking.DockAreas.DockBottom)));
             this.HideOnClose = true;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "DummyTaskList";
             this.Padding = new System.Windows.Forms.Padding(0, 3, 0, 3);
-            this.ShowHint = WeifenLuo.WinFormsUI.Docking.DockState.DockTopAutoHide;
+            this.ShowHint = KW.WinFormsUI.Docking.DockState.DockTopAutoHide;
             this.TabText = "Task List";
             this.Text = "Task List";
             this.ResumeLayout(false);

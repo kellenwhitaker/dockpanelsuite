@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel;
 using System.Drawing;
-using WeifenLuo.WinFormsUI.Docking;
+using KW.WinFormsUI.Docking;
 
-namespace WeifenLuo.WinFormsUI.ThemeVS2012
+namespace KW.WinFormsUI.ThemeVS2012
 {
     [ToolboxItem(false)]
     public class VS2012DockPaneCaptionInertButton : InertButtonBase

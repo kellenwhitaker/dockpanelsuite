@@ -14,7 +14,7 @@ internal class resfinder
 {
 }
 
-namespace WeifenLuo.WinFormsUI.Docking
+namespace KW.WinFormsUI.Docking
 {
     /// <summary>
     /// Deserialization handler of layout file/stream.
@@ -31,7 +31,7 @@ namespace WeifenLuo.WinFormsUI.Docking
 
     [LocalizedDescription("DockPanel_Description")]
     [Designer("System.Windows.Forms.Design.ControlDesigner, System.Design")]
-    [ToolboxBitmap(typeof(resfinder), "WeifenLuo.WinFormsUI.Docking.DockPanel.bmp")]
+    [ToolboxBitmap(typeof(resfinder), "KW.WinFormsUI.Docking.DockPanel.bmp")]
     [DefaultProperty("DocumentStyle")]
     [DefaultEvent("ActiveContentChanged")]
     public partial class DockPanel : Panel

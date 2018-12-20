@@ -3,7 +3,7 @@ using System.ComponentModel;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 
-namespace WeifenLuo.WinFormsUI.Docking
+namespace KW.WinFormsUI.Docking
 {
     #region DockPanelSkin classes
     /// <summary>

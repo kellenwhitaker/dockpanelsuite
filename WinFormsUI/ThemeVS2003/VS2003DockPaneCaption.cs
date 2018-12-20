@@ -2,10 +2,10 @@ using System;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace WeifenLuo.WinFormsUI.Docking
+namespace KW.WinFormsUI.Docking
 {
     using System.ComponentModel;
-    using WeifenLuo.WinFormsUI.ThemeVS2003;
+    using KW.WinFormsUI.ThemeVS2003;
 
     /// <include file='CodeDoc/DockPaneCaptionVS2003.xml' path='//CodeDoc/Class[@name="DockPaneCaptionVS2003"]/ClassDef/*'/>
     [ToolboxItem(false)]

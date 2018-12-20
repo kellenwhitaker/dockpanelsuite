@@ -1,5 +1,5 @@
 ﻿using NUnit.Framework;
-using WeifenLuo.WinFormsUI.Docking;
+using KW.WinFormsUI.Docking;
 
 namespace Tests
 {

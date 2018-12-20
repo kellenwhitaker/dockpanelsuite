@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WeifenLuo.WinFormsUI.ThemeVS2005 {
+namespace KW.WinFormsUI.ThemeVS2005 {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace WeifenLuo.WinFormsUI.ThemeVS2005 {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("WeifenLuo.WinFormsUI.ThemeVS2005.Strings", typeof(Strings).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("KW.WinFormsUI.ThemeVS2005.Strings", typeof(Strings).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

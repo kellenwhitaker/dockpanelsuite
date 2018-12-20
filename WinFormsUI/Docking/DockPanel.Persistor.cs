@@ -6,7 +6,7 @@ using System.Text;
 using System.Xml;
 using System.Globalization;
 
-namespace WeifenLuo.WinFormsUI.Docking
+namespace KW.WinFormsUI.Docking
 {
     partial class DockPanel
     {

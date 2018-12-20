@@ -2,9 +2,9 @@
 using System.IO;
 using System.Linq;
 using System.Xml.Linq;
-using WeifenLuo.WinFormsUI.Docking;
+using KW.WinFormsUI.Docking;
 
-namespace WeifenLuo.WinFormsUI.ThemeVS2012
+namespace KW.WinFormsUI.ThemeVS2012
 {
     public class VS2012PaletteFactory : IPaletteFactory
     {

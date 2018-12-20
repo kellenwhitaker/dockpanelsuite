@@ -2,9 +2,9 @@ using System.ComponentModel;
 using System.Diagnostics;
 using System.Drawing;
 using System.Windows.Forms;
-using WeifenLuo.WinFormsUI.Docking;
+using KW.WinFormsUI.Docking;
 
-namespace WeifenLuo.WinFormsUI.ThemeVS2013
+namespace KW.WinFormsUI.ThemeVS2013
 {
     [ToolboxItem(false)]
     internal class VS2013SplitterControl : DockPane.SplitterControlBase

@@ -1,8 +1,8 @@
-namespace WeifenLuo.WinFormsUI.Docking
+namespace KW.WinFormsUI.Docking
 {
     using System.Drawing;
     using System.Drawing.Drawing2D;
-    using WeifenLuo.WinFormsUI.ThemeVS2005;
+    using KW.WinFormsUI.ThemeVS2005;
 
     /// <summary>
     /// Visual Studio 2003 theme.

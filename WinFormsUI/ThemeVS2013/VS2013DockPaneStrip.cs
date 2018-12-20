@@ -3,10 +3,10 @@ using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
 using System.ComponentModel;
-using WeifenLuo.WinFormsUI.Docking;
-using WeifenLuo.WinFormsUI.ThemeVS2012;
+using KW.WinFormsUI.Docking;
+using KW.WinFormsUI.ThemeVS2012;
 
-namespace WeifenLuo.WinFormsUI.ThemeVS2013
+namespace KW.WinFormsUI.ThemeVS2013
 {
     [ToolboxItem(false)]
     internal class VS2013DockPaneStrip : DockPaneStripBase

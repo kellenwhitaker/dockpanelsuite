@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using System.Drawing;
 using System.Windows.Forms;
-using WeifenLuo.WinFormsUI.Docking;
+using KW.WinFormsUI.Docking;
 
 namespace Tests
 {

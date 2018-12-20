@@ -1,9 +1,9 @@
 ﻿using Microsoft.Win32;
 using System;
 using System.Configuration;
-using WeifenLuo.WinFormsUI.Docking.Configuration;
+using KW.WinFormsUI.Docking.Configuration;
 
-namespace WeifenLuo.WinFormsUI.Docking
+namespace KW.WinFormsUI.Docking
 {
     public static class PatchController
     {

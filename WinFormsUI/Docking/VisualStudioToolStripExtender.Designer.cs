@@ -1,4 +1,4 @@
-﻿namespace WeifenLuo.WinFormsUI.Docking
+﻿namespace KW.WinFormsUI.Docking
 {
     partial class VisualStudioToolStripExtender
     {

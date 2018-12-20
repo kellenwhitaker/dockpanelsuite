@@ -4,7 +4,7 @@ using System.Windows.Forms;
 using System.Drawing.Drawing2D;
 using System.ComponentModel;
 
-namespace WeifenLuo.WinFormsUI.Docking
+namespace KW.WinFormsUI.Docking
 {
     [ToolboxItem(false)]
     internal class VS2012AutoHideStrip : AutoHideStripBase

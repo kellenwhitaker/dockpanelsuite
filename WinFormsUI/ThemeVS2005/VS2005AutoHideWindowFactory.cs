@@ -1,11 +1,11 @@
 ﻿using System.ComponentModel;
 using System.Drawing;
 using System.Windows.Forms;
-using WeifenLuo.WinFormsUI.Docking;
-using static WeifenLuo.WinFormsUI.Docking.DockPanel;
-using static WeifenLuo.WinFormsUI.Docking.DockPanelExtender;
+using KW.WinFormsUI.Docking;
+using static KW.WinFormsUI.Docking.DockPanel;
+using static KW.WinFormsUI.Docking.DockPanelExtender;
 
-namespace WeifenLuo.WinFormsUI.ThemeVS2005
+namespace KW.WinFormsUI.ThemeVS2005
 {
     public class VS2005AutoHideWindowFactory : IAutoHideWindowFactory
     {

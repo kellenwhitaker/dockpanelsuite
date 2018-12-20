@@ -4,9 +4,9 @@ using System.Drawing.Drawing2D;
 using System.Windows.Forms;
 using System.ComponentModel;
 
-namespace WeifenLuo.WinFormsUI.Docking
+namespace KW.WinFormsUI.Docking
 {
-    using WeifenLuo.WinFormsUI.ThemeVS2003;
+    using KW.WinFormsUI.ThemeVS2003;
 
     [ToolboxItem(false)]
     internal class VS2003DockPaneStrip : DockPaneStripBase

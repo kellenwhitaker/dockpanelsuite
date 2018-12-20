@@ -1,7 +1,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace WeifenLuo.WinFormsUI.ThemeVS2012
+namespace KW.WinFormsUI.ThemeVS2012
 {
     using Docking;
     using System.ComponentModel;

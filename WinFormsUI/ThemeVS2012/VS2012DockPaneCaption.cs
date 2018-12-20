@@ -4,9 +4,9 @@ using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
 
-namespace WeifenLuo.WinFormsUI.Docking
+namespace KW.WinFormsUI.Docking
 {
-    using WeifenLuo.WinFormsUI.ThemeVS2012;
+    using KW.WinFormsUI.ThemeVS2012;
 
     [ToolboxItem(false)]
     internal class VS2012DockPaneCaption : DockPaneCaptionBase

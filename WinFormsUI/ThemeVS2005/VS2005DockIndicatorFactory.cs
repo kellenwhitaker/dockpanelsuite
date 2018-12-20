@@ -1,8 +1,8 @@
-﻿using WeifenLuo.WinFormsUI.Docking;
-using static WeifenLuo.WinFormsUI.Docking.DockPanel.DockDragHandler;
-using static WeifenLuo.WinFormsUI.Docking.DockPanelExtender;
+﻿using KW.WinFormsUI.Docking;
+using static KW.WinFormsUI.Docking.DockPanel.DockDragHandler;
+using static KW.WinFormsUI.Docking.DockPanelExtender;
 
-namespace WeifenLuo.WinFormsUI.ThemeVS2005
+namespace KW.WinFormsUI.ThemeVS2005
 {
     public class VS2005DockIndicatorFactory : IDockIndicatorFactory
     {

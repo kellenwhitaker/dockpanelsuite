@@ -1,9 +1,9 @@
 using System.Drawing;
 using System.Drawing.Drawing2D;
-using WeifenLuo.WinFormsUI.ThemeVS2005;
-using static WeifenLuo.WinFormsUI.Docking.DockPanelExtender;
+using KW.WinFormsUI.ThemeVS2005;
+using static KW.WinFormsUI.Docking.DockPanelExtender;
 
-namespace WeifenLuo.WinFormsUI.Docking
+namespace KW.WinFormsUI.Docking
 {
     /// <summary>
     /// Visual Studio 2005 theme.

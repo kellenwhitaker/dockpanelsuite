@@ -1,7 +1,7 @@
 using System.Windows.Forms;
 using System.Drawing;
 
-namespace WeifenLuo.WinFormsUI.Docking
+namespace KW.WinFormsUI.Docking
 {
     partial class DockPanel
     {

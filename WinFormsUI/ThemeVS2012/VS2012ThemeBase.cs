@@ -1,4 +1,4 @@
-﻿namespace WeifenLuo.WinFormsUI.ThemeVS2012
+﻿namespace KW.WinFormsUI.ThemeVS2012
 {
     using Docking;
     using static Docking.DockPanelExtender;

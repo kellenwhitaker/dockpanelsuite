@@ -1,4 +1,4 @@
-namespace WeifenLuo.WinFormsUI.ThemeVS2013
+namespace KW.WinFormsUI.ThemeVS2013
 {
     using ThemeVS2012;
     using Docking;

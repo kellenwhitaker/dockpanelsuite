@@ -1,6 +1,6 @@
-﻿using WeifenLuo.WinFormsUI.Docking;
+﻿using KW.WinFormsUI.Docking;
 
-namespace WeifenLuo.WinFormsUI.ThemeVS2013
+namespace KW.WinFormsUI.ThemeVS2013
 {
     public class VS2013DockPaneStripFactory : DockPanelExtender.IDockPaneStripFactory
     {

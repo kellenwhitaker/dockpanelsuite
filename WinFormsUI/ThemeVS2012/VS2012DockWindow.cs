@@ -1,7 +1,7 @@
 using System.ComponentModel;
 using System.Drawing;
 
-namespace WeifenLuo.WinFormsUI.Docking
+namespace KW.WinFormsUI.Docking
 {
     /// <summary>
     /// Dock window of Visual Studio 2012 Light theme.

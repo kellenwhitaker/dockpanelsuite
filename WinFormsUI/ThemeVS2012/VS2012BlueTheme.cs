@@ -1,6 +1,6 @@
 using System.Drawing;
 
-namespace WeifenLuo.WinFormsUI.Docking
+namespace KW.WinFormsUI.Docking
 {
     using ThemeVS2012;
     using ThemeVS2013;

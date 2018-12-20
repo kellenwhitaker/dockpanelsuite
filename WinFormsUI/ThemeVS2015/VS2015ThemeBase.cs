@@ -1,4 +1,4 @@
-namespace WeifenLuo.WinFormsUI.ThemeVS2015
+namespace KW.WinFormsUI.ThemeVS2015
 {
     using ThemeVS2012;
     using ThemeVS2013;

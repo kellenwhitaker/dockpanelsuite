@@ -1,9 +1,9 @@
 ﻿using System.ComponentModel;
 using System.Drawing;
 using System.Windows.Forms;
-using WeifenLuo.WinFormsUI.Docking;
+using KW.WinFormsUI.Docking;
 
-namespace WeifenLuo.WinFormsUI.ThemeVS2012
+namespace KW.WinFormsUI.ThemeVS2012
 {
     internal class VS2012PanelIndicatorFactory : DockPanelExtender.IPanelIndicatorFactory
     {

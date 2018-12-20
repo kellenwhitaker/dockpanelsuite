@@ -4,7 +4,7 @@ using System.Drawing.Imaging;
 using System.Windows.Forms;
 using System.ComponentModel;
 
-namespace WeifenLuo.WinFormsUI.ThemeVS2003
+namespace KW.WinFormsUI.ThemeVS2003
 {
     [ToolboxItem(false)]
     public class InertButton : Button
