@@ -9,7 +9,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>WeifenLuo.WinFormsUI</RootNamespace>
-    <AssemblyName>WeifenLuo.WinFormsUI.Docking.ThemeVS2012</AssemblyName>
+    <AssemblyName>KW.WinFormsUI.Docking.ThemeVS2012</AssemblyName>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>dockpanelsuite.snk</AssemblyOriginatorKeyFile>
     <DelaySign>False</DelaySign>

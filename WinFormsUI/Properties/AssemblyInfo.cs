@@ -6,7 +6,7 @@ using System.Diagnostics.CodeAnalysis;
 [assembly: AssemblyTitle("DockPanel Suite for .Net")]
 [assembly: AssemblyDescription(".NET Docking Library for Windows Forms")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Weifen Luo")]
+[assembly: AssemblyCompany("KW")]
 [assembly: AssemblyProduct("DockPanel Suite")]
 [assembly: AssemblyCopyright("Copyright © Weifen Luo and other contributors 2007-2018")]
 [assembly: AssemblyTrademark("")]
